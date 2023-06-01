@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75408b13-9e50-4cf7-90cb-9581c107fd3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ceasar-Cipher/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ceasar-Cipher/app.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUIZBOARD/READme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../QUIZBOARD/READme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUIZBOARD/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUIZBOARD/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../QUIZBOARD/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QUIZBOARD/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THEREEN-COLLECTIONS" beforeDir="false" afterPath="$PROJECT_DIR$/../THEREEN-COLLECTIONS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/READ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../week3project/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/images/hand-drawn-portfolio-template.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/images/image 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/images/image 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/images/image 3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/images/image 4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/images/travel-poster-concept.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/images/wedding-invitation-template-with-image.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week3project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/js/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week3project/js/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week3project/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3project/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QbSXVtnFtBGFLPll6wZ5fgWHcg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "C:/Users/mmmutinda/Documents/Caesar_Cipher/src/main/java/ke/co/safaricom/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75408b13-9e50-4cf7-90cb-9581c107fd3b" name="Changes" comment="" />
+      <created>1685620832403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685620832403</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:C:/Users/mmmutinda/Documents/Caesar_Cipher" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/mmmutinda/Documents/Caesar_Cipher" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ke/co/safaricom/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
